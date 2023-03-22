@@ -1,0 +1,1 @@
+# -LINQ-funktsioonid-Skip-ja-ThenByDescending
